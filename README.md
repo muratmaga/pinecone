@@ -1,1 +1,1 @@
-# pinecone
+# SPU Short Course MorphoDepot Demo
